@@ -1,0 +1,31 @@
+body{
+    padding-top: 200px;
+    background-color: brown;
+}
+p{
+    color: white;
+    font-family: sans-serif;
+    font-size: 25px;
+}
+.title{
+    width: 60%;
+    vertical-align: top;
+    display: inline-block;
+}
+.title h1{
+    font-size: 60px;
+    color: white;
+    font-family: sans-serif;
+}
+.title h1 span{
+    color: rgb(0, 0, 0);
+}
+
+.image{
+    display: inline-block;
+}
+.image img{
+    height: 400px;
+    width: 400px;
+    border-radius: 100%;
+}
